@@ -1,0 +1,6 @@
+languageCode = 'en-us'
+title = 'hattie, today'
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-winston-theme"
+showPostsOnHomepage = true
