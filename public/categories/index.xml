@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on hattie, today</title>
-    <link>https://startling-stroopwafel-1fb14f.netlify.app/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on hattie, today</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://startling-stroopwafel-1fb14f.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
