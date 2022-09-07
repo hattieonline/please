@@ -1,0 +1,11 @@
+
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16"
+  },
+    "scripts": {
+      "build": "webpack --config webpack.config.js"
+    }
+  
+}
